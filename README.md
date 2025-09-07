@@ -1,2 +1,2 @@
-# Remote sensing and machine learning techniques for predicting yields of 25 quinoa accessions
+# Remote Sensing and Machine Learning for Predicting the Yields of 25 Quinoa Accessions
 
