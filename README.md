@@ -2,18 +2,18 @@
 
 It is a Python script developed in Python to estimate the yields of 25 quinoa accessions of the from the Germplasm Bank of the Quinoa Research Program at the Quinoa Research Program at the CICA of FCA - UNSAAC using multispectral images, digital surface models (DSM), and a Kernel Ridge Regression (KRR) model.
 
-The quinoa accesions from CICA-FCA-UNSAAC used in the study have been described in Álvarez & Céspedes, 2017): 
+The quinoa accesions used in the study have been described in Álvarez & Céspedes, (2017): 
 
-ID		Accession
-1		CQC-003
-2		CQC-026
-3		CQC-034
-4		CQC-042
-5		CQC-045
-6		CQC-051
-7		CQC-062
-8		CQC-067
-9		CQC-110
+ID	Accession
+1	CQC-003
+2	CQC-026
+3	CQC-034
+4	CQC-042
+5	CQC-045
+6	CQC-051
+7	CQC-062
+8	CQC-067
+9	CQC-110
 10	CQC-114
 11	CQC-117
 12	CQC-132
