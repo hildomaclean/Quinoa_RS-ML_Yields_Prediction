@@ -1,6 +1,6 @@
 # Remote Sensing and Machine Learning for Predicting the Yields of 25 Quinoa Accessions
 
-It is a Python script developed in Python to estimate the yields of 25 quinoa accessions of the from the Germplasm Bank of the Quinoa Research Program at the Quinoa Research Program at the CICA of FCA - UNSAAC using multispectral images, digital surface models (DSM), and a Kernel Ridge Regression (KRR) model.
+It is a script developed in Python to estimate the yields of 25 quinoa accessions from the Germplasm Bank of the Quinoa Research Program at CICA, FCA-UNSAAC, using multispectral images, digital surface models (DSM), and a Kernel Ridge Regression (KRR) model.
 
 The quinoa accesions used in the study have been described in Álvarez & Céspedes, (2017): 
 
